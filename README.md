@@ -34,7 +34,7 @@
     }
     ```
     
-    * [Bash](https://github.com/MiCh4n/fizz-buzz/blob/main/main.sh)
+* [Bash](https://github.com/MiCh4n/fizz-buzz/blob/main/main.sh)
     
     ```
     #!/usr/bin/env bash
