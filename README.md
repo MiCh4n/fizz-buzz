@@ -41,15 +41,15 @@
     for i in {1..100}
     do
         if ! ((i % 5)); then
-                printf "$i Fizz!\n"
+                printf "%s Fizz!\\n" "$i"
         fi
 
         if ! ((i % 3)); then
-                printf "$i Buzz!\n"
+                printf "%s Buzz!\\n" "$i"
         fi
 
         if ! ((i % 15)); then
-                printf "$i FizzBuzz!\n"
+                printf "%s FizzBuzz!\\n" "$i"
         fi
     done
     ```
