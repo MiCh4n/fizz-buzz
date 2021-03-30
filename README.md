@@ -1,5 +1,5 @@
 # My fizz-buzzes
-* [Python](https://github.com/MiCh4n/fizz-buzz/blob/main/main.py)
+* [Python](https://github.com/MiCh4n/fizz-buzz/blob/main/fizzbuzzes/main.py)
     ```
     i = 1
     while i <= 100:
@@ -11,7 +11,7 @@
             print(str(i)+" Buzz!")
         i += 1
     ```
-* [Go](https://github.com/MiCh4n/fizz-buzz/blob/main/main.go)
+* [Go](https://github.com/MiCh4n/fizz-buzz/blob/main/fizzbuzzes/main.go)
     ```
     package main
 
@@ -34,7 +34,7 @@
     }
     ```
     
-* [Bash](https://github.com/MiCh4n/fizz-buzz/blob/main/main.sh)
+* [Bash](https://github.com/MiCh4n/fizz-buzz/blob/main/fizzbuzzes/main.sh)
     
     ```
     #!/usr/bin/env bash
