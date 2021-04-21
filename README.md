@@ -1,3 +1,4 @@
+# Here I also store other scripts beside fizz-buzzes
 # My fizz-buzzes
 * [Python](https://github.com/MiCh4n/fizz-buzz/blob/main/fizzbuzzes/main.py)
     ```
