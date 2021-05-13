@@ -7,6 +7,8 @@
         - #### script to build/sync hugo output on my webpage
     - ### [trigger build](https://github.com/MiCh4n/fizz-buzz/blob/main/bash/my-site-sh/trigger-build-site.sh)
         - #### triggered after webhook from github repo to run *sync-files* script 
+    - ### [Start/Stop monitoring services](https://github.com/fizz-buzz/blob/my-site-sh/enable-monit.sh)
+        - #### Simple script to change state of monit services
     - [my-site repo](https://github.com/MiCh4n/site)
 - ### [secrets-aws-jenkins](https://github.com/MiCh4n/fizz-buzz/blob/main/bash/secret-aws-jenkins/secrets.sh)
     - #### Script to generate secrets for Jenkins on kubernetes from *~.aws/credentials* to access AWS 
