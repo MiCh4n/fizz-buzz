@@ -1,7 +1,7 @@
 # My codes:
-- [Bash scripts](https://github.com/MiCh4n/fizz-buzz/tree/main/bash)
+- [Bash scripts](https://github.com/MiCh4n/programming/tree/main/bash)
 # My fizz-buzzes:
-* [Python](https://github.com/MiCh4n/fizz-buzz/blob/main/fizzbuzzes/main.py)
+* [Python](https://github.com/MiCh4n/programming/blob/main/fizzbuzzes/main.py)
     ```
     i = 1
     while i <= 100:
@@ -13,7 +13,7 @@
             print(str(i)+" Buzz!")
         i += 1
     ```
-* [Go](https://github.com/MiCh4n/fizz-buzz/blob/main/fizzbuzzes/main.go)
+* [Go](https://github.com/MiCh4n/programming/blob/main/fizzbuzzes/main.go)
     ```
     package main
 
@@ -36,7 +36,7 @@
     }
     ```
     
-* [Bash](https://github.com/MiCh4n/fizz-buzz/blob/main/fizzbuzzes/main.sh)
+* [Bash](https://github.com/MiCh4n/programming/blob/main/fizzbuzzes/main.sh)
     
     ```
     #!/usr/bin/env bash
